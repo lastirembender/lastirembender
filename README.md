@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm Irem
+I'm a engineering student at Ankara University. 
 
-<!--
-**lastirembender/lastirembender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm currently working on:
+   -Python and Data Science
+   -Machine Learning
+   -Web development(HTML,CSS and Javascript)
+ 
+🌱 I’m currently learning:
+   -Machine learning algorithms and libraries
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📚 I want to learn:
+    -Computer Architecture and hardware
+    -Embedded Systems
+     
+ 🖥️ Programming Languages I know:
+    -C/C++
+    -Python
+   
+✨ Outside of coding I enjoy:
+   -Learning new languages(I'm currently learning Russian and German)
+   -Sci-fi movies/series/books 🖖
