@@ -2,7 +2,7 @@
 I'm a engineering student at Ankara University. 
 
 💻 I'm currently working on:
-   -Python and Data Science
+   -Python and Data Science\n
    -Machine Learning
    -Web development(HTML,CSS and Javascript)
  
