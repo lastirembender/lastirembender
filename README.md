@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Irem
-I'm a engineering student at Ankara University. 
+I'm a computer engineering student at Ankara University. 
 
 💻 I'm currently working on:
    -Python and Data Science
