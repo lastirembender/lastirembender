@@ -14,6 +14,8 @@ I'm a computer engineering student at Ankara University.
  🖥️ Programming Languages I know:
     -C/C++
     -Python
+    -Java
+    -C#
    
 ✨ Outside of coding I enjoy:
    -Sci-fi movies/series/books 🖖
